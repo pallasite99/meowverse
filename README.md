@@ -19,6 +19,10 @@ This project is a simple website that fetches and displays cat images and breed 
 - **CSS**: Styling and layout.
 - **JavaScript (Fetch API)**: Fetches data from TheCatAPI.
 
+## Short Demo
+![image](https://github.com/user-attachments/assets/89acfba3-0035-4454-8363-793e359de22c)
+![image](https://github.com/user-attachments/assets/02fc9934-3410-460a-80dc-6685d38c1a26)
+
 ## Setup Instructions
 1. Clone the repository:
    ```bash
