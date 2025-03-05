@@ -1,5 +1,4 @@
-# meowverse
-# Cat Website
+# Cat API Website - Meowverse
 
 ## Description
 This project is a simple website that fetches and displays cat images and breed information using [TheCatAPI](https://thecatapi.com/). It consists of two main pages:
@@ -12,6 +11,9 @@ This project is a simple website that fetches and displays cat images and breed 
 - Includes **navigation between pages** for easy browsing.
 - Styled using **CSS** for a clean and responsive layout.
 
+## Random Cat Image 🐱
+![Random Cat](https://cataas.com/cat)
+
 ## Technologies Used
 - **HTML**: Structure of the website.
 - **CSS**: Styling and layout.
@@ -20,7 +22,7 @@ This project is a simple website that fetches and displays cat images and breed 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pallasite99/meowverse.git
+   git clone https://github.com/yourusername/cat-api-website.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -54,5 +56,4 @@ Feel free to submit pull requests or open issues to improve this project!
 
 ## License
 This project is licensed under the MIT License.
-
 
